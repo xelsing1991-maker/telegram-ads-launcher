@@ -2,6 +2,8 @@
 
 Минимальный лаунчер для Telegram Ads. В проекте оставлены только 3 режима:
 
+![Окно Telegram Ads](docs/telegram-ads-window.png)
+
 1. ➕ Добавлять объявления из `data/bots.txt` или `data/channel.txt`
 2. 🔎 Проверить цели и удалить плохие в `data/low-bots.txt` или `data/low-channel.txt`
 3. 🎯 Калибровать координаты проверки
